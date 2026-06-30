@@ -1,0 +1,3 @@
+/home/michal/Documents/C-learning/population_count/build/CMakeFiles/my_program_executable.dir
+/home/michal/Documents/C-learning/population_count/build/CMakeFiles/edit_cache.dir
+/home/michal/Documents/C-learning/population_count/build/CMakeFiles/rebuild_cache.dir
